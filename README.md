@@ -17,3 +17,4 @@ The following objectives must provide the foundation of these security upgrades:
 Additional requirements will follow, but every solution must include references to a cybersecurity framework. This will make it much easier to perform audits on the security infrastructure when needed.
 
 DOMAIN: zpmint.com
+https://github.com/bobsyourmom/zpminternational/blob/main/zpm_international.png
