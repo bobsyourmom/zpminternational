@@ -11,44 +11,41 @@ See below for links to the full blog post series or go to the LABS folder for li
 PART ONE: THE PLAN
 	- Architecture Frameworks
 	- Security Related Documentation
-	- Compliance
-	- Zero Trust
-	- Compliance controls
-	- Operational guides
+	- Compliance and Zero Trust
 	- Cost Management
 	- Security assessments
+	- Important Security Defenses To Help Your CISO Sleep At Night
 
 PART TWO: THE EXECUTION
 	- Asset Inventory
-	- Vulnerability Scanning
+	- Vulnerability Scanning and Reporting
 	- SecOps
 	- Identity management
 	- CSPM 
-	- SIEM
+	- SIEM & EDR
 	- Threat Intelligence
-	- EDR
 	- CASB
 	- EASM
 	- OT
 	- Reports and Dashboards
 	- Access reviews
 	- Secure Scores and Recommendations
-	- Vulnerability Reports
-  - SOAR
+	- SOAR
+	- CSPM CNAPP CIEM CWPP Oh My!
+	- AiCS: DLP and Data Protection
 
 PART THREE: "SOMETHING WICKED"
 The Problem:
 	- APT42a
 The Solution:
 	- Deception-Active Defenses
-	- Threat Hunting
-	- SIEM attack simulations
+	- Dashboards & Threat Hunting
+	- Attack Simulations
 	- Workload Protections: Containers
 	- Ransomware Readiness
 	- DevOps
 	- Application Controls
 	- Encryption
-	- Data protection
 	- Securing AI
 
 REFERENCES
