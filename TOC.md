@@ -6,7 +6,7 @@ See below for links to the bull blog post series or go to the LABS folder for li
 
 [TEST] (https://github.com/bobsyourmom/zpminternational/blob/main/POSTS/testpost.md)
 
-
+```
 PART ONE: THE PLAN
 	- Architecture Frameworks
 	- Security Related Documentation
@@ -52,3 +52,4 @@ The Solution:
 
 REFERENCES
 SECURITY CONTROLS TABLE
+```
