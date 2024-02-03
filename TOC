@@ -1,5 +1,8 @@
 
-COVER STORY
+COVER STORY: Building Defenses with Modern Security Solutions
+
+This is a series of blog posts and labs intended to help educate security admins/architects/auditors on several key topics of cybersecurity.
+See below for links to the bull blog post series or go to the LABS folder for links to the labs.
 
 PART ONE: THE PLAN
 	- Architecture Frameworks
