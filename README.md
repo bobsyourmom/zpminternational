@@ -4,6 +4,8 @@
 
 [LAB TABLE OF CONTENTS](https://github.com/bobsyourmom/zpminternational/blob/main/LABS/TOC)
 
+## Backstory
+
 ZPM International is a manufacturer of SMR (Small Modular Reactor) related components.
 
 It has recently experienced a large influx of capital due to the popularity of green energy and government committments to eliminating carbon based emissions.
