@@ -1,8 +1,8 @@
 # Building Defenses with Modern Security Solutions
 
-[BLOGS TABLE OF CONTENTS](https://github.com/bobsyourmom/zpminternational/blob/main/TOC)
+[BLOGS TABLE OF CONTENTS](https://github.com/bobsyourmom/zpminternational/blob/main/TOC.md)
 
-[LABS TABLE OF CONTENTS](https://github.com/bobsyourmom/zpminternational/blob/main/LABS/TOC)
+[LABS TABLE OF CONTENTS](https://github.com/bobsyourmom/zpminternational/blob/main/LABS/TOC.md)
 
 ## Backstory
 
