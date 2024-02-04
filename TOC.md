@@ -9,7 +9,7 @@ See below for links to the full blog post series or go to the LABS folder for li
 
 ```
 PART ONE: THE PLAN
-	- Architecture Frameworks
+	- Architecture Frameworks and Benchmarks
 	- Security Related Documentation
 	- Compliance and Zero Trust
 	- Cost Management
