@@ -1,13 +1,11 @@
 ```
 PART ONE: THE PLAN
-	- Architecture Frameworks
-	- Security Related Documentation
-	- Compliance
+	- Architecture Frameworks and Benchmarks
+	- Cybersecurity Documentation Essentials
 	- Zero Trust Essentials
-	- Compliance controls
-	- Operational guides
 	- Cost Management
 	- Security assessments
+	- Important Security Defenses To Help Your CISO Sleep At Night
 
 PART TWO: THE EXECUTION
 	- Asset Inventory
