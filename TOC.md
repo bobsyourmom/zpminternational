@@ -10,7 +10,7 @@ See below for links to the full blog post series or go to the LABS folder for li
 ```
 PART ONE: THE PLAN
 	- Architecture Frameworks and Benchmarks
-	- Security Related Documentation
+	- Cybersecurity Documentation Essentials
 	- Compliance and Zero Trust
 	- Cost Management
 	- Security assessments
