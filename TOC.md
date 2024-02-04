@@ -11,7 +11,7 @@ See below for links to the full blog post series or go to the LABS folder for li
 PART ONE: THE PLAN
 	- Architecture Frameworks and Benchmarks
 	- Cybersecurity Documentation Essentials
-	- Compliance and Zero Trust
+	- Zero Trust Essentials
 	- Cost Management
 	- Security assessments
 	- Important Security Defenses To Help Your CISO Sleep At Night
