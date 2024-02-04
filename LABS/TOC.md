@@ -3,7 +3,7 @@ PART ONE: THE PLAN
 	- Architecture Frameworks
 	- Security Related Documentation
 	- Compliance
-	- Zero Trust
+	- Zero Trust Essentials
 	- Compliance controls
 	- Operational guides
 	- Cost Management
