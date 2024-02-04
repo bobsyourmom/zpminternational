@@ -21,8 +21,10 @@ PART TWO: THE EXECUTION
 	- Vulnerability Scanning and Reporting
 	- SecOps
 	- Identity management
-	- CSPM 
-	- SIEM & EDR
+	- CSPM
+	- CSPM CNAPP CIEM CWPP Oh My!
+	- SIEM
+	- EDR
 	- Threat Intelligence
 	- CASB
 	- EASM
@@ -31,21 +33,20 @@ PART TWO: THE EXECUTION
 	- Access reviews
 	- Secure Scores and Recommendations
 	- SOAR
-	- CSPM CNAPP CIEM CWPP Oh My!
 	- AiCS: DLP and Data Protection
+	- Encryption
 
 PART THREE: "SOMETHING WICKED"
 The Problem:
 	- APT42a
 The Solution:
 	- Deception-Active Defenses
-	- Dashboards & Threat Hunting
-	- Attack Simulations
+	- Situational Awareness & Threat Hunting
+	- Attack Simulations and MITRE
 	- Workload Protections: Containers
 	- Ransomware Readiness
 	- DevOps
 	- Application Controls
-	- Encryption
 	- Securing AI
 
 REFERENCES
