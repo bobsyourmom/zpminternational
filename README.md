@@ -6,7 +6,7 @@
 
 [LABS TABLE OF CONTENTS](https://github.com/bobsyourmom/zpminternational/blob/main/LABS/TOC.md)
 
-## Labs Backstory
+## Labs Backstory: "ZPM International: Architecting Security Defenses Against APT 42a"
 
 ZPM International is a manufacturer of SMR (Small Modular Reactor) related components.
 
