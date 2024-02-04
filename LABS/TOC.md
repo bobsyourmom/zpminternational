@@ -1,4 +1,5 @@
-``PART ONE: THE PLAN
+```
+PART ONE: THE PLAN
 	- Architecture Frameworks
 	- Security Related Documentation
 	- Compliance
@@ -42,4 +43,5 @@ The Solution:
 	- Securing AI
 
 REFERENCES
-SECURITY CONTROLS TABLE``
+SECURITY CONTROLS TABLE
+```
