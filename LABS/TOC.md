@@ -25,7 +25,7 @@ PART TWO: THE EXECUTION
 	- Access reviews
 	- Secure Scores and Recommendations
 	- Vulnerability Reports
-  - SOAR
+	- SOAR
 
 PART THREE: "SOMETHING WICKED"
 The Problem:
