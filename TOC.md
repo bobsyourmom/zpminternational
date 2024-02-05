@@ -12,7 +12,7 @@ PART ONE: THE PLAN
 	- Architecture Frameworks and Benchmarks
 	- Cybersecurity Documentation Essentials
 	- Zero Trust Essentials
-	- Cost Management
+	- Cost Management Tips for Cyber Admins
 	- Security assessments
 	- Important Security Defenses To Help Your CISO Sleep At Night
 
