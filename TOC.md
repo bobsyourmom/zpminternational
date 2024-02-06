@@ -14,7 +14,7 @@ PART ONE: THE PLAN
 	- Zero Trust Essentials
 	- Cost Management Tips for Cyber Admins
 	- Security assessments
-	- Important Security Defenses To Help Your CISO Sleep At Night
+	- Useful Security Defenses To Help Your CISO Sleep At Night
 
 PART TWO: THE EXECUTION
 	- Asset Inventory
