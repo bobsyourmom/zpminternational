@@ -13,7 +13,7 @@ PART ONE: THE PLAN
 	- Cybersecurity Documentation Essentials
 	- Zero Trust Essentials
 	- Cost Management Tips for Cyber Admins
-	- Security assessments
+	- Security Assessments
 	- Practical Security Defenses To Help Your CISO Sleep At Night
 
 PART TWO: THE EXECUTION
