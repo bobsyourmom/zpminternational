@@ -20,7 +20,7 @@ PART TWO: THE EXECUTION
 	- EASM
 	- OT
 	- Reports and Dashboards
-	- Access reviews
+	- Access Reviews
 	- Secure Scores and Recommendations
 	- Vulnerability Reports
 	- SOAR
