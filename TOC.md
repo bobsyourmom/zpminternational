@@ -5,8 +5,6 @@ This is a series of blog posts and labs intended to help educate security admins
 
 See below for links to the full blog post series or go to the LABS folder for links to the labs.
 
-[TEST](https://github.com/bobsyourmom/zpminternational/blob/main/POSTS/testpost.md)
-
 ```
 PART ONE: THE PLAN
 	- Architecture Frameworks and Benchmarks
