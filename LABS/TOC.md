@@ -9,7 +9,6 @@ PART ONE: THE PLAN
 
 PART TWO: THE EXECUTION
 	- Asset Inventory
-	- Vulnerability Scanning
 	- SecOps
 	- Identity management
 	- CSPM 
